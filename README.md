@@ -30,21 +30,38 @@ Deploying link:https://bathandbodyworks-clone-b4e4de.netlify.app/
 <li>React</li>
 <li>Redux</li>
  </ul>
-Features ✨
-Authentication process undercover with Local Storage.
-Pagination for each category with working mega dropdown.
-Dynamic Products, Wishlist page using locally created json data.
-All the product description, prices, discounts, are updated in real time.
-Responsibilities 💪
-Built Product page where mapped all the relevant products data.
+<h3>Features ✨</h3>
 
-Added sorts and filters on the product page.
+Login and signup page 
 
-Built the cart page and added functionalities like increase or decrease quantity of products and also remove products from cart.
+Atractive Home page
+
+Product page
+
+use json-server to fetch data
 
 Made the description page and address page dynamic.
 
 Linked all the pages using routes and protected routes
 
-Snap Shots 📷
-Home Page
+<h2>Snap Shots 📷</h2>
+<h3>Home Page</h3>
+![Screenshot (108)](https://user-images.githubusercontent.com/97525857/174084653-e82033f4-e844-4ddf-af6a-7aa2a0cfbf0b.png)
+
+<h3>Feactured Page</h3>
+![Screenshot (109)](https://user-images.githubusercontent.com/97525857/174084805-e15e7bd0-e3de-4d0a-a444-e0e33184e861.png)
+
+<h3>Login & Signup Page</h3>
+![Screenshot (111)](https://user-images.githubusercontent.com/97525857/174085402-d62244f6-b6ee-4da5-a623-e34d6229b2d9.png)
+
+
+<h3>Product Page</h3>
+![Screenshot (110)](https://user-images.githubusercontent.com/97525857/174085207-54166a84-d83c-43a1-9e40-8acfb955ac45.png)
+
+<h3>Product Checkout Page</h3>
+![Screenshot (113)](https://user-images.githubusercontent.com/97525857/174085468-20f1a44c-9d98-4493-82ab-0de5f179b8b3.png)
+
+
+
+<h3>Shiping Address Page</h3>
+![Screenshot (112)](https://user-images.githubusercontent.com/97525857/174085023-081677dd-c1a3-4227-ae56-eef62073e4cc.png)
