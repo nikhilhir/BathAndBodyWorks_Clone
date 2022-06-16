@@ -23,7 +23,7 @@ export const Payment = () => {
 
   const displayRazorpay = async () => {
     const res = await loadScript(
-      "https://checkout.razorpay.com/v1/checkout.js"
+      "http://checkout.razorpay.com/v1/checkout.js"
     );
 
     if (!res) {

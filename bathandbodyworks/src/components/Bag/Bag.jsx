@@ -59,12 +59,7 @@ export const Bag = () => {
               </tr>
             </thead>
 
-            {/* <tr>
-              <td>{"img"}</td>
-              <td>{200}</td>
-              <td>{1}</td>
-              <td>{200}</td>
-            </tr> */}
+           
             <tbody>
               {bagItems.map((el) => (
                 <tr>

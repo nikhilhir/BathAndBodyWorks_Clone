@@ -168,7 +168,7 @@ export const Shipping = () => {
               <p>MERCHANDISE SUBTOTAL</p>
               <p>ESTIMATED SHIPPING </p>
               <p>SALES TAX</p>
-              <h3>ORDER TOTAL (USD)</h3>
+             
             </div>
             <div className="shipping-bottom-right-flexdiv">
               <p>$31.00</p>
