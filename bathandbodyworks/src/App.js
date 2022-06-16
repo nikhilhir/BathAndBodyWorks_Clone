@@ -15,9 +15,7 @@ import { TopOffers } from "./components/TopOffers";
 import { Bag } from "./components/Bag/Bag";
 import { Shipping } from "./components/Shipping/Shipping";
 import { NewNow } from "./components/NewNow/NewNow";
-// import Footer from "./components/Footer/Footer";
-// import Soap from "./components/Soaps/Soap";
-// import Fragrance from "./components/Fragrance/Frag";
+
 import { Payment } from "./components/Payment/Payment";
 import { Login } from "./components/Login/Login";
 import { SignUp } from "./components/Signup/Signup";
@@ -86,15 +84,15 @@ function App() {
         <Route path="/shopping-bag" element={<Bag />} />
         <Route path="/shipping" element={<Shipping />} />
         <Route path="/newnow" element={<NewNow />} />
-        {/* <Route path="/fragrance" element={<Fragrance />} /> */}
-        {/* <Route path="/soaps" element={<Soap />} /> */}
+      
+       
         <Route path="/payment" element={<Payment />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<SignUp/>}/>
       </Routes>
 
       {location.pathname === "/" ? <Homepage /> : ""}
-      {/* <Footer /> */}
+     
     </div>
   );
 }
