@@ -1,5 +1,10 @@
-    
-    .i1{
+   .body{
+    align-items: center;
+    padding: 10px;
+   } 
+   
+   
+   .i1{
         height:38rem;
         width:68rem;
         margin-top:2rem;
