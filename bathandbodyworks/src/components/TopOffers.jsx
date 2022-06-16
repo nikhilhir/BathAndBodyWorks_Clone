@@ -51,11 +51,7 @@ export const TopOffers = () => {
         </div>
         <hr className="Top-offer-hr" />
         <div>
-          <img
-            className="topoffer-img"
-            src="https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwb69c9c2e/images/Spring2022/oo-pwp_sp3_sb_lto.jpg?yocs=o_s_"
-            alt="img"
-          />
+         
         </div>
 
         <div className="topoffer-div">
