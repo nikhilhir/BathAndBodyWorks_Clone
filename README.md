@@ -69,5 +69,5 @@ Linked all the pages using routes and protected routes
 
 
 <h3>Shiping Address Page</h3>
-<img src="https://user-images.githubusercontent.com/97525857/174085023-081677dd-c1a3-4227-ae56-eef62073e4cc.png" />
+<img src="https://user-images.githubusercontent.com/97525857/174089763-ac788261-47ed-41cb-9aff-e799ada284dd.png" />
 
