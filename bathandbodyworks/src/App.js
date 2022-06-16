@@ -67,7 +67,7 @@ function App() {
           HAND SOAPS & SANITIZERS
         </Link>
         <Link to="/fragrance" className="App2">
-          HOME FRAGRANCE
+          HOME FRAGRANCe
         </Link>
         <Link to="/gifts" className="App2">
           GIFTS
