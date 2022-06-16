@@ -1,0 +1,53 @@
+.Login-component-main-div{
+    text-align: left;
+}
+
+.Login-image{
+    width: 85%;
+    margin-left: 6.5%;
+}
+
+.Signin-main-div{
+    width:80%;
+    margin-left:10%;
+    border:1px solid transparent;
+}
+
+.left-right-parts{
+    display: flex;
+    /* justify-content:space-evenly; */
+    text-align: center;
+    /* padding:4%; */
+    
+}
+
+.Sign-up-right{
+    border-left:1px solid black;
+    width:60%;
+    margin-left:12%;
+}
+
+.Sign-up-image{
+    width:70%;
+}
+
+.Sign-in-left{
+    margin-left:10%;
+    text-align:left;
+}
+
+.display-flex{
+    display:flex;
+    margin-top:5%;
+    gap:5%;
+}
+
+.questions{
+    text-align:center;
+    margin-top:5%;
+    /* margin-bottom:-8%; */
+}
+
+.center{
+    text-align:center
+}

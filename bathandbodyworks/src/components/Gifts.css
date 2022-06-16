@@ -1,0 +1,90 @@
+*{
+    /* padding: 0;
+    margin: 0; */
+    font-family: Arial, sans-serif;
+}
+.gift-main-div{
+    
+    width: 95%;
+
+    display: flex;
+    text-align: left;
+    margin: auto;
+  }
+.gift-left-div{
+  
+  width: 18%;
+  padding-left: 2%;
+}
+.sub-title{
+    color:#666666;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.gift-right-div{
+    width: 78%;
+}
+
+.line{
+    line-height: 35px;
+    margin-top: 25px;
+}
+.box-div{
+    height: 100px;
+    background-color: #fabecc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.gift-img{
+    width: 100%;
+    margin-top: 40px;
+}
+.gift-right-text-div1{
+    margin-top: 35px;
+    font-size: 24px;
+    font-weight: 400;
+
+}
+.onlyhr{
+    margin-top: 10px;
+    font-weight: 700;
+    font-size: 24px;
+
+}
+.flex-div{
+    display: flex;
+    margin-top: 10px;
+    
+    
+
+}
+.flex-div>img{
+    width: 31.5%;
+    margin: 10px;
+}
+.box-div-but{
+    text-decoration: none;
+    border: none;
+    margin-left: 25px;
+    padding: 10px 20px;
+
+    font-size: 14px;
+    font-weight: 400;
+}
+.text-div-p{
+    font-size: 24px;
+    margin-top: 100px;
+    padding-left: 10px;
+}
+.text-div-p1{
+    color: #666666;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right:250px;
+    line-height: 30px;
+    margin-top: 30px;
+    
+}

@@ -1,0 +1,100 @@
+
+
+.signup-container{
+    border: 1px solid red;
+    text-align: left;
+}
+
+  
+  .signup-container-link {
+    width: 15%;
+    font-size: 0.9rem;
+    margin-left: 2%;
+    margin-top: 1rem;
+
+  }
+  
+ 
+  
+  .signup-container-input {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    margin-top: 2rem;
+
+    margin-bottom: 5%;
+  }
+  
+  .topPoster {
+    width: 100%;
+    height: 120px;
+    
+  }
+  .signup-container-img {
+    width: 100%;
+    height: 100%;
+  }
+  .topHeading {
+    width: 100%;
+    height: 5rem;
+    border-top: 1px solid white;
+    border-bottom: 2px solid;
+    
+  }
+  
+  .signup-heading {
+    
+    margin-top: 3%;
+  }
+  
+  .signupInputBox {
+    width: 60%;
+    height: 100%;
+
+    margin-left: 25%;
+  }
+  
+  .signupInputBox_1,
+  .signup-fot-box {
+    width: 80%;
+    height: auto;
+
+    margin: auto;
+    font-size: 15px;
+    margin-top: 2%;
+  }
+  
+  .signup-input-box {
+    width: 70%;
+    height: 25px;
+    margin-top: 4%;
+    margin-bottom: 3%;
+  }
+  
+  #createAccount {
+    padding: 10px;
+    width: 40%;
+    margin-left: 17.5%;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 1px solid;
+    margin-bottom: 5%;
+  }
+  
+  #createAccount:hover {
+    background-color: rgb(207, 207, 207);
+    border: 1px solid rgb(207, 207, 207);
+    color: black;
+  }
+  
+  .signup-fot-box-ptag {
+    text-align: center;
+    font-size: 12px;
+    line-height: 18px;
+  }
+  
+  .signup-fot-box {
+    margin-left: 2%;
+  }
+  

@@ -1,0 +1,63 @@
+@import "../../global.scss";
+
+.mid {
+  //   border: 1px solid blue;
+  height: 32%;
+  width: 72%;
+  margin: auto;
+
+  .socialWrapper {
+    display: flex;
+    justify-content: space-between;
+    .socials {
+      //   border: 1px solid blue;
+      flex: 0.5;
+      .socialIcons {
+        //   border: 1px solid red;
+        margin: 10px 0 0 0;
+        
+        .icons {
+          //   border: 1px solid red;
+          height: 30px;
+          width: 30px;
+          margin: 0 14px 0 0;
+          cursor: pointer;
+          &:nth-child(1) {
+            color: #003288;
+          }
+          &:nth-child(2) {
+            color: #0069bf;
+          }
+          &:nth-child(3) {
+            color: #0021a7;
+          }
+          &:nth-child(4) {
+            color: #ff0033;
+          }
+          &:nth-child(5) {
+            color: #c80000;
+          }
+        }
+      }
+      p {
+        font-size: 0.8rem;
+        font-weight: 700;
+        color: $headColor;
+      }
+    }
+    .img {
+      //   border: 1px solid blue;
+      flex: 0.5;
+      height: inherit;
+
+      a {
+        img {
+          //   border: 1px solid blue;
+          width: 420px;
+          float: right;
+          margin-top: 8%;
+        }
+      }
+    }
+  }
+}

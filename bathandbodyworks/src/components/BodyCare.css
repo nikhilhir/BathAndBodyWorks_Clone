@@ -1,0 +1,102 @@
+.small-text{
+    font-size:.781rem;
+}
+.dark-text{
+    font-weight: bold;
+}
+.product-heading-text{
+    font-size: 1.70rem;
+}
+.myBlue{
+    color:#394368;
+}
+.blue-text{
+    color:#005699;
+    font-weight: 500;
+}
+.red-text{
+    color:#CF0000;
+}
+
+.product-heading-div{
+    display: flex;
+    justify-content:space-between;
+    border:1px solid transparent;
+}
+
+.BodyCare-div{
+    display:flex;
+    text-align: left;
+}
+
+
+.table{
+    flex-basis: 14%;
+    padding:1.3%;
+}
+
+.black-button{
+    background-color:#343332;
+    color:white;  
+    font-size:1.125rem;  
+    padding:1.3% 2.3%;
+    cursor: pointer;
+}
+
+.black-button:hover{
+    color: black;
+    background-color: white;
+}
+
+.black-buttons-div{
+    margin-top:2%;
+    display:flex;
+    /* gap:2%; */
+    justify-content: space-around;
+}
+
+.gray-line{
+    height:0.175rem;
+    background-color:#F2F2F2;
+    border:none;
+}
+
+.location-div{
+    display: flex;
+    gap:.9375rem;
+    margin-top:1.5%;
+    margin-bottom:1.5%;
+}
+
+.product-image{
+    height:18.75rem;
+}
+
+.products-div{
+    margin-left:5%;
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    column-gap:.625rem;
+    row-gap: 6.25rem;
+    
+}
+
+.single-product-div{
+    text-align: center;
+}
+
+/* .products-div > div > p{
+    line-height:0;
+} */
+
+.product-button{
+    background-color:#343332;
+    color:white;
+    padding:2% 10%;
+    cursor: pointer;
+}
+
+.product-button:hover{
+    color:black;
+    background-color: rgb(243, 236, 236);
+}

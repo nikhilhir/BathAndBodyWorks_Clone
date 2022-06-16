@@ -1,0 +1,91 @@
+.Top-offer-div{
+  
+    width: 45%;
+    margin: auto;
+    margin-top:2rem ;
+  }
+  .Top-offer-text-div{
+      display: flex;
+      
+  }
+  .Top-offer-div-p{
+      margin-top: 10px;
+      margin-left: 1.2rem;
+      font-size: 19px;
+      color: #666666;
+  }
+  .Top-offer-hr{
+      margin-top: 5px;
+      
+  }
+  .topoffer-div{
+      display: flex;
+      flex-wrap: wrap;
+  
+      justify-content: space-between;
+  
+  }
+  .topoffer-data-div{
+      width: 45%;
+      
+      margin: 10px;
+      text-align: center
+  }
+  .topoffer-data-div-img{
+      width: 100%;
+  }
+  .topoffer-img{
+      width: 100%;
+      margin: 20px 0px;
+  }
+  
+  .offer-box-div-p{
+   color: #333333;
+   font-size: 0.9rem;
+   font-weight: 400;
+  }
+  .offer-box-div-p1{
+      margin-top: 20px;
+      color: #333333;
+      font-size: 30px;
+      font-weight: 400;
+  }
+  .offer-box-div-but{
+      text-decoration: none;
+      border:2px solid black;
+      background-color: white;
+      padding: 6px 45px;
+      font-weight: 400;
+      font-size: 0.9rem;
+      margin: 25px 0px 10px 0px ;
+  }
+  .offer-box-div-but:hover{
+      background-color: black;
+      color: white;
+      cursor: pointer;
+  }
+  
+  .top-offer-bottom-text{
+      font-size: 1.5rem;
+      color: #333333;
+      margin: 30px 0px;
+      padding:0px 15px ;
+  }
+  .offer-bottom-text-p{
+      font-size: 16px;
+      color: #666666;
+      line-height: 25px;
+      margin-bottom: 15px;
+      padding:0px 15px ;
+  }
+  
+  .offer-bottom-text-p{
+      margin:20px 0px;
+      color: #666666;
+      padding:0px 15px ;
+  }
+  
+  .offer-span{
+      margin-left: 3rem;
+  
+  }

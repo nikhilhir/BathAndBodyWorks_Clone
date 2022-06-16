@@ -1,0 +1,19 @@
+@import "../../global.scss";
+
+.fragMain{
+    text-align: left;
+    .fragHead{
+        width: 20%;
+        display: flex;
+        // border: 1px solid red;
+        margin: 10px 5% 20px;
+        p{
+            font-size: .8rem;
+            color: $paraColor;
+            a{
+                text-decoration: none;
+                color: $paraColor;
+            }
+        }
+    }
+}

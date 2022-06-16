@@ -1,0 +1,59 @@
+@import "../../global.scss";
+.footer {
+    text-align: left;
+  .line {
+    margin-top:8%;
+    width: 100%;
+    height: 2px;
+    background-color: #e0e0e0;
+  }
+  // .upSide {
+  //   height: calc(28vh - 2px);
+  // }
+  .container {
+    // border: 10px solid red;
+    width: 100%;
+    height: 72vh;
+    display: flex;
+    flex-direction: column;
+    .top {
+        margin-top: 2rem;
+      height: 45%;
+      display: flex;
+    //   border: 1px solid green;
+      .mail {
+          width: 35%;
+        // border: 1px solid red;
+      }
+      .topLinks {
+          width: 50%;
+        display: flex;
+        justify-content: space-around;
+        // border: 1px solid green;
+        div {
+            p{
+                font-size: .75rem;
+                font-weight: 700;
+                color: $headColor;
+            }
+          ul {
+            list-style: none;
+            a {
+              text-decoration: none;
+              li {
+                font-size: 0.8rem;
+                line-height: 1.75rem;
+                color: $paraColor;
+              }
+            }
+          }
+        }
+      }
+    }
+    
+    .bottom {
+      height: 23%;
+      background-color: #f2f2f2;
+    }
+  }
+}

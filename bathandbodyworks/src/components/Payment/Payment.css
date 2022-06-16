@@ -1,0 +1,45 @@
+
+
+.payment-main-div{
+    display: flex;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    justify-content: space-between;
+    padding: 2rem;
+    line-height: 1.5rem;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+   
+}
+
+.payment-cal-div{
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    padding: 1rem;
+    width: 45%;
+    
+    
+}
+
+
+
+.payment-cal-flexdiv{
+    
+    display: flex;
+    justify-content: space-between;
+    line-height: 2rem;
+}
+.payment-cal-h3-div{
+    margin-bottom: 1rem;
+}
+.payment-cal-but{
+    background-color: black;
+    color: white;
+    border: none;
+    margin: 1.5rem 3rem;
+    text-align: center;
+    
+    padding: 0.4rem 2rem;
+}
+.payment-cal-hr{
+  margin-top: 0.5rem;
+}

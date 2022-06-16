@@ -1,0 +1,39 @@
+@import "../../global.scss";
+.mail {
+    // border: 1px solid green;
+  .mailContainer {
+      width: 60%;
+    // border: 1px solid green;
+    float: right;
+    p{
+        width: 100%;
+        font-size: .85rem;
+        color: $paraColor;
+    }
+    form {
+        // border: 1px solid green;
+      width: 100%;
+      .block {
+          margin: 8% 0;
+          input{
+              height: 2.2rem;
+              width: 60%;
+              padding: 0 0 0 7px;
+          }
+          .submitBtn{
+              width: 25%;
+              border: none;
+              background-color: #2b2b2b;
+              color: white;
+              cursor: pointer;
+          }
+          
+        label {
+            font-size: .85rem;
+          display: block;
+          color: $headColor;
+        }
+      }
+    }
+  }
+}

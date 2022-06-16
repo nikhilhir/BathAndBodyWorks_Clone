@@ -1,0 +1,207 @@
+    
+    .i1{
+        height:38rem;
+        width:68rem;
+        margin-top:2rem;
+      }
+      .b{
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        height:21rem;
+        width:70rem;
+        background-color: #f9fafb;
+        margin:auto;
+        margin-top:2rem
+      }
+      .box{
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        height:15rem;
+        width:12rem;
+        background-color:white;
+        margin-left: 4rem;
+        
+      }
+      .bs{
+        display:flex;
+      }
+      .b1{
+        height:2.3rem;
+        width:7.3rem;
+        margin-top:-2.5rem;
+        background-color: black;
+        color:white;
+        border-color: black;
+        font-weight: bolder;
+        font-size: 1rem;
+      }
+      #h1{
+        font-family: Arial, Helvetica, sans-serif;
+        padding-top: 1rem;
+      }
+      #b2{
+        height:2.5rem;
+        width:7rem;
+        background-color: #f9fafb;
+        border-color:#f1f5f9;
+        font-weight: bolder;
+        margin-top: 1rem;
+      }
+      .p1{
+        color:#4f46e5;
+        font-weight: bold;
+      }
+      #d1{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        padding-top:2rem;
+      }
+      #h2{
+        margin-top:-0.1rem
+      }
+      #i2{
+        width:140rem;
+        height:24rem;
+        margin-top:3rem;
+        
+        margin-left:9rem;
+      }
+      #d3{
+        display:flex;
+      }
+      #i3{
+        width:12rem;
+        height:19rem;
+        margin-right:15rem;
+      }
+      #h3{
+        color:#4f46e5;
+        margin-top:-3.5rem;
+        margin-right:13rem;
+        margin-top:-5rem;
+      }
+      #h4{
+        padding-right:13rem;
+      }
+      #h5{
+        padding-right:13rem;
+      }
+      #h6{
+        padding-right:13rem;
+        margin-top:-0.1rem;
+      }
+      #h7{
+        margin-right:13rem;
+        height:3rem;
+        width:9rem;
+        margin-top:-2rem;
+        color:white;
+        background-color:black;
+        border-color:black
+      }
+      #i4{
+        width:77rem;
+        margin-top:2rem;
+      }
+      #i5{
+        display:flex;
+        margin:auto
+      }
+      .i51{
+        width:14rem
+      }
+      #i6{
+        display:flex;
+      
+      }
+      .i61{
+        margin-left:3rem;
+        margin-top:2rem;
+        margin-left:-2rem;
+        margin-right:5rem;
+      
+
+      }
+
+      #i7{
+        display:flex;
+        margin:auto;
+      }
+      .i71{
+        width:37rem;
+        margin-left:3rem;
+        margin-top:2rem;
+      }
+      .i72{
+        width:37rem;
+        margin-left:3rem;
+        margin-top:2rem;
+      }
+      #i8{
+        width:74rem;
+      }
+      #d4{
+        display:flex;
+        margin-left:9rem;
+        margin-top:1rem;
+        
+      }
+      .b3{
+          margin-left:2.3rem;  
+          width:10.5rem;
+          height:2.5rem;  
+          padding-top:0.2rem; 
+          background-color:black;
+          color:white;
+          font-weight: bolder;
+          border-color: black;
+          font-size: 0.9rem;
+         }
+         #b4{
+           margin:auto;
+           margin-top:1rem;
+           width:13rem;
+           padding-top:0.2rem;
+           height:2.5rem; 
+           background-color:black;
+           color:white;
+           font-weight: bolder;
+           border-color: black;
+           font-size: 0.9rem;
+         }
+         #i8{
+           font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+         }
+         #d5{
+        
+          margin-left:1.4rem;
+           display:flex;
+          
+         }
+         .i81{
+           width:12rem;
+           height:12rem;
+           margin-left:1rem;
+         }
+         #i91{
+           width:5rem;
+           height:4rem;
+           margin-top:1rem;
+         }
+         #i6{
+           display:flex;
+           margin-left:5rem;
+         }
+         .i11{
+           height:13rem;
+           width:15rem;
+           margin-left:3rem;
+         }
+         #h11{
+           font-family: 'Times New Roman', Times, serif;
+         }
+         #p4{
+           width:70rem;
+          
+           margin:auto;
+           margin-top:-1rem;
+         }
+       

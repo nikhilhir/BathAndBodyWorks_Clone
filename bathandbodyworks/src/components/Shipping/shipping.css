@@ -1,0 +1,77 @@
+.shipping-main-div{
+    display: flex;
+    margin: auto;
+    width: 60%;
+    border: 1px solid transparent;
+    justify-content: space-between;
+    text-align: left;
+}
+.shipping-form-div{
+    line-height: 2.5rem;
+}
+
+.shipping-left-div{
+    width: 40%;
+}
+
+.shipping-input-box{
+
+    width: 95%;
+    height: 2rem;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    border: 1px solid #ccc;
+}
+.shipping-span-div{
+    color: red;
+}
+.shipping-label-div{
+    font-size: 0.9rem;
+    color: #333333;
+
+}
+.shipping-p-div{
+    font-size: 1.5rem;
+}
+.shipping-select-tag{
+    border: 1px solid #ccc;
+    width:35%;
+    height: 2rem;
+}
+.shipping-button{
+    text-decoration: none;
+    background-color:#ccc ;
+    padding: 0.5rem 1rem;
+    border: none;
+}
+
+.shipping-right-div{
+     border: 2px solid transparent;
+     width: 36%;
+     height: auto;
+}
+.shipping-flexdiv{
+    display: flex;
+    border: 1px solid green;
+    justify-content: space-between;
+    overflow:auto;
+
+}
+.shipping-left-flexdiv{
+    width: 10%;
+    height: 4rem;
+}
+.shipping-img-div{
+    width: 100%;
+    height: 100%;
+}
+
+.shipping-bottom-flexdiv{
+    display: flex;
+    line-height: 2rem;
+    justify-content:space-between;
+}
+
+/* .shipping-bottom-left-flexdiv{
+    
+} */

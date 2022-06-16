@@ -1,0 +1,24 @@
+
+@import "../../global.scss";
+.aboutSoap{
+    width: 80%;
+    h4{
+        font-weight: lighter;
+        font-size: 1.4rem;
+        color: $headColor;
+        margin: 20px 0;
+    }
+    p{
+        font-size: .95rem;
+        margin: 20px 0;
+        color: $paraColor;
+        line-height: 30px;
+        a{
+            color: #000000;
+            &:hover{
+                text-decoration: none;
+            }
+        }
+
+    }
+}
