@@ -47,6 +47,7 @@ Linked all the pages using routes and protected routes
 <h2>Snap Shots 📷</h2>
 <h3>Home Page</h3>
 ![Screenshot (108)](https://user-images.githubusercontent.com/97525857/174084653-e82033f4-e844-4ddf-af6a-7aa2a0cfbf0b.png)
+<img src="https://user-images.githubusercontent.com/97525857/174084653-e82033f4-e844-4ddf-af6a-7aa2a0cfbf0b.png"/>
 
 <h3>Feactured Page</h3>
 ![Screenshot (109)](https://user-images.githubusercontent.com/97525857/174084805-e15e7bd0-e3de-4d0a-a444-e0e33184e861.png)
