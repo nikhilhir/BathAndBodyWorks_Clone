@@ -16,7 +16,7 @@ export const NewNow = () =>{
                         <li>Laundry Fragrances</li>
                         <li>Best Sellers</li>
                         <li>Aromatherapy Shop</li>
-                        <li>Get Inspired</li>
+                     
                         <li>Shop by Fragnances</li>
                     </ul>
                 </div>
