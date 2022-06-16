@@ -70,6 +70,7 @@
         margin-left:9rem;
       }
       #d3{
+        margin-left:300px;
         display:flex;
       }
       #i3{
@@ -111,7 +112,9 @@
         margin:auto
       }
       .i51{
-        width:14rem
+        margin-left:300px;
+        width:14rem;
+        
       }
       #i6{
         display:flex;
@@ -144,12 +147,14 @@
         width:74rem;
       }
       #d4{
+        margin-left:300px;
         display:flex;
         margin-left:9rem;
         margin-top:1rem;
         
       }
       .b3{
+        margin-left:300px;
           margin-left:2.3rem;  
           width:10.5rem;
           height:2.5rem;  
@@ -161,6 +166,7 @@
           font-size: 0.9rem;
          }
          #b4{
+          margin-left:300px;
            margin:auto;
            margin-top:1rem;
            width:13rem;
@@ -177,7 +183,7 @@
          }
          #d5{
         
-          margin-left:1.4rem;
+          margin-left:300px;
            display:flex;
           
          }

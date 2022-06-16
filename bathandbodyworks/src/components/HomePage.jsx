@@ -1,10 +1,10 @@
 import "./HomePage.css"
 export const Homepage = () => {
   return (
-    <div className="body">
-      <img
+    <div style={{width:"100%"}}>
+      <img style={{width:"90%"}}
         className="i1"
-        src="https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dw703cd090/images/Spring2022/fbc_mday_sp3_hm.jpg?yocs=s_"
+        src="https://www.bathandbodyworks.in/on/demandware.static/-/Sites-BathAndBodyWorks-Library/default/dwe2154231/1SElectitems.jpg"
       ></img>
       <div className="b">
         <h1 id="h1">TODAY'S TOP OFFERS</h1>
