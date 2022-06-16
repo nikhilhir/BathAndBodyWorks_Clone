@@ -46,25 +46,29 @@ Linked all the pages using routes and protected routes
 
 <h2>Snap Shots 📷</h2>
 <h3>Home Page</h3>
-![Screenshot (108)](https://user-images.githubusercontent.com/97525857/174084653-e82033f4-e844-4ddf-af6a-7aa2a0cfbf0b.png)
+
 <img src="https://user-images.githubusercontent.com/97525857/174084653-e82033f4-e844-4ddf-af6a-7aa2a0cfbf0b.png"/>
 
 <h3>Feactured Page</h3>
 ![Screenshot (109)](https://user-images.githubusercontent.com/97525857/174084805-e15e7bd0-e3de-4d0a-a444-e0e33184e861.png)
+<img src="https://user-images.githubusercontent.com/97525857/174084805-e15e7bd0-e3de-4d0a-a444-e0e33184e861.png" />
 
 <h3>Login & Signup Page</h3>
 ![Screenshot (111)](https://user-images.githubusercontent.com/97525857/174085402-d62244f6-b6ee-4da5-a623-e34d6229b2d9.png)
-
+<img src="https://user-images.githubusercontent.com/97525857/174085402-d62244f6-b6ee-4da5-a623-e34d6229b2d9.png" />
 
 <h3>Product Page</h3>
+<img src="https://user-images.githubusercontent.com/97525857/174085207-54166a84-d83c-43a1-9e40-8acfb955ac45.png" />
 ![Screenshot (110)](https://user-images.githubusercontent.com/97525857/174085207-54166a84-d83c-43a1-9e40-8acfb955ac45.png)
 ![Screenshot (110)](https://user-images.githubusercontent.com/97525857/174087861-33e8660a-ef6f-402f-aa41-d9382c6a84a0.png)
 
 
 <h3>Product Checkout Page</h3>
+<img src="https://user-images.githubusercontent.com/97525857/174085468-20f1a44c-9d98-4493-82ab-0de5f179b8b3.png" />
 ![Screenshot (113)](https://user-images.githubusercontent.com/97525857/174085468-20f1a44c-9d98-4493-82ab-0de5f179b8b3.png)
 
 
 
 <h3>Shiping Address Page</h3>
+<img src="https://user-images.githubusercontent.com/97525857/174085023-081677dd-c1a3-4227-ae56-eef62073e4cc.png" />
 ![Screenshot (112)](https://user-images.githubusercontent.com/97525857/174085023-081677dd-c1a3-4227-ae56-eef62073e4cc.png)
