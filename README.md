@@ -19,13 +19,17 @@ Deploying link:https://bathandbodyworks-clone-b4e4de.netlify.app/
 
 
 
-Tech Stack 💻
-HTML5
-CSS3
-JAVASCRIPT
-Libraries
-React
-Redux
+<h3>Tech Stack 💻</h3>
+<ul>
+ <li>HTML5</li>
+<li>CSS3</li>
+<li>JAVASCRIPT</li>
+ </ul>
+<h3>Libraries</h3>
+<ul>
+<li>React</li>
+<li>Redux</li>
+ </ul>
 Features ✨
 Authentication process undercover with Local Storage.
 Pagination for each category with working mega dropdown.
