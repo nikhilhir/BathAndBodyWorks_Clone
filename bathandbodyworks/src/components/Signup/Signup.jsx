@@ -40,7 +40,7 @@ export const SignUp = () => {
             />
           </div>
           <div className="topHeading">
-            <h2 className="signup-heading">Create an Account</h2>
+            <h2 className="signup-heading">Create an account</h2>
           </div>
           <div className="signupInputBox">
             <div className="signupInputBox_1">
