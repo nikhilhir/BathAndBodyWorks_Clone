@@ -28,7 +28,7 @@ export const BodyCare = () => {
           <p className="dark-text small-text">FEATURED</p>
           <p className="small-text">New Body Care</p>
           <p className="small-text">Retired Fragrances</p>
-          <p className="small-text">Travel Size</p>
+      
           <br />
           <p className="dark-text small-text">BATH & SHOWER</p>
           <p className="small-text">All Bath & Shower</p>
@@ -88,7 +88,7 @@ export const BodyCare = () => {
             <button className="black-button">FRAGRANCE</button>
             <button className="black-button">BATH & SHOWER</button>
             <button className="black-button">MOISTURIZER</button>
-            <button className="black-button">AROMATHERAPY</button>
+          
           </div>
           <div className="black-buttons-div">
             <button className="black-button">MEN'S</button>
