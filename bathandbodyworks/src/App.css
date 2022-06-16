@@ -1,3 +1,8 @@
+body{
+  width: 100%;
+  border: 0%;
+}
+
 .App {
     text-align: center;
   }
@@ -21,7 +26,7 @@
     margin-top: 0.5rem;
   }
   .App1{
-   
+    width: 100%;
     display:flex;
    
   }
@@ -90,6 +95,31 @@
     color: #61dafb;
   }
   
+  .adDiv {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    justify-content: center;
+    background-position: calc(50% - 7px) calc(50% - 21px);
+    background-size: 28px 28px;
+    text-align: center;
+    overflow: hidden;
+    top: 0;
+    z-index: 112;
+    border-bottom: 1px solid #e5e5e5;
+    background-image: url("https://cdn1.staticans.com/image/catalog/brandstore/bathandbodyworks/logo/gingham-pattern.svg");
+  }
+  .adDiv > div {
+    background: white;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: steelblue;
+    font-weight: bold;
+  }
+
   @keyframes App-logo-spin {
     from {
       transform: rotate(0deg);

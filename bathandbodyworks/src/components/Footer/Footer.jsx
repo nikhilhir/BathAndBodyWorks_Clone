@@ -1,6 +1,6 @@
 import React from "react";
 import Mail from "./Mail";
-import "./footer.scss";
+import "./footer.css";
 import { account, customer, discover, find } from "./data";
 
 import Bottom from "./Bottom";
